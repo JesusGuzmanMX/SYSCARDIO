@@ -8,5 +8,7 @@ The SYSCARDIO system, used in the article [Robust cardiac segmentation corrected
 
 All three blocks works in a secuencial way (as it shown in the follow figure).
 
+![SYSCARDIO Workflow](Workflow.png)
+
 Alan Cervantes Guzman  
 LAPI, UNAM
