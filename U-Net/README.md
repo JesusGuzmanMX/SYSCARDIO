@@ -1,6 +1,6 @@
 # U-NET
 
-This UNET module from SYSCARDIO project used a training dataset of 418 images taken from [EchoNet-Dynamic Cardiac Ultrasound](https://aimi.stanford.edu/echonet-dynamic-cardiac-ultrasound) and a testing dataset of 218 images.
+This UNET module from SYSCARDIO project segments the 4-CH and used a training dataset of 418 images taken from [EchoNet-Dynamic Cardiac Ultrasound](https://aimi.stanford.edu/echonet-dynamic-cardiac-ultrasound) and a testing dataset of 218 images.
 
 ## Important
 
