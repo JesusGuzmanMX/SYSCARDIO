@@ -43,3 +43,5 @@ You will find the results of your testings in the next directory: /results. The 
 - RAM: 16 GB
 - VRAM: 512 MB
 - Shared screen memory: 7.7 GB
+
+![Chamber segmentation](chamber_segmentation.PNG)
