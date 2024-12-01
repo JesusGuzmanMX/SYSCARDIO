@@ -7,3 +7,5 @@ The method:
 *  Was trained with varying epochs (since 100 until 1500 epochs).
 *  A five k-fold cross-validation is used to evaluate and determine the optimal choice.
 *  Can deal with any input (.jpg, .png, .avi, DICOM files, etc.).
+
+![Cone Segmentation](Cone segmentation.png)
