@@ -8,7 +8,7 @@ This UNET module from SYSCARDIO project segments the 4-CH and used a training da
 
 You will find the results of your testings in the next directory: /results. The testing code generates:
 - The masks.
-- Contours above their respective image.
+- Contours above their respective image (an example shown at end of this README).
 - json files with the coordenates from each cardiac cavity from each image.
 
 ## Some pre-training parameters:
