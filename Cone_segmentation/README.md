@@ -8,4 +8,4 @@ The method:
 *  A five k-fold cross-validation is used to evaluate and determine the optimal choice.
 *  Can deal with any input (.jpg, .png, .avi, DICOM files, etc.).
 
-![Cone Segmentation](Cone segmentation.png)
+![Cone Segmentation](Cone Segmentation.PNG)
